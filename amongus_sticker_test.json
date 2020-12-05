@@ -18,22 +18,66 @@
       "8.webp",
       "9.webp"
     ]
-  },{
-      "title": "Animation",
-      "slug": "animation",
-      "active": false,
-      "tray_src": "4.webp",
-      "tray_src_icon": "4.webp",
-      "stickers": [
-        "1.webp",
-        "2.webp",
-        "3.webp",
-        "4.webp",
-        "5.webp",
-        "6.webp",
-        "7.webp"
-      ]
-    },
+  },
+  {
+    "title": "New",
+    "slug": "new",
+    "active": false,
+    "tray_src": "3.webp",
+    "tray_src_icon": "3.webp",
+    "stickers": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp",
+      "6.webp",
+      "7.webp",
+      "8.webp",
+      "9.webp",
+      "10.webp",
+      "11.webp"
+    ]
+  },
+  {
+    "title": "New 2",
+    "slug": "new2",
+    "active": false,
+    "tray_src": "6.webp",
+    "tray_src_icon": "6.webp",
+    "stickers": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp",
+      "6.webp",
+      "7.webp",
+      "8.webp",
+      "9.webp",
+      "10.webp"
+    ]
+  },
+  {
+    "title": "New 3",
+    "slug": "new3",
+    "active": false,
+    "tray_src": "9.webp",
+    "tray_src_icon": "9.webp",
+    "stickers": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp",
+      "6.webp",
+      "7.webp",
+      "8.webp",
+      "9.webp",
+      "10.webp",
+      "11.webp"
+    ]
+  },
   {
     "title": "Sticker LOL 1",
     "slug": "lol1",
@@ -83,6 +127,24 @@
       "1.webp",
       "10.webp",
       "11.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp",
+      "5.webp",
+      "6.webp",
+      "7.webp",
+      "8.webp",
+      "9.webp"
+    ]
+  },
+  {
+    "title": "Player",
+    "slug": "player",
+    "active": false,
+    "tray_src": "3.webp",
+    "tray_src_icon": "3.webp",
+    "stickers": [
+      "1.webp",
       "2.webp",
       "3.webp",
       "4.webp",
@@ -234,8 +296,7 @@
       "24.webp",
       "25.webp"
     ]
-  }
-  ,
+  },
   {
     "title": "Cute 2",
     "slug": "cute2",
