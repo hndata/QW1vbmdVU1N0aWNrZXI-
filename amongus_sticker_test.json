@@ -18,7 +18,24 @@
       "8.webp",
       "9.webp"
     ]
-  },
+  },{
+      "title": "Animation",
+      "slug": "animation",
+      "active": false,
+      "tray_src": "4.webp",
+      "tray_src_icon": "4.webp",
+      "stickers": [
+        "1.webp",
+        "10.webp",
+        "11.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp",
+        "6.webp",
+        "7.webp"
+      ]
+    },
   {
     "title": "Sticker LOL 1",
     "slug": "lol1",
